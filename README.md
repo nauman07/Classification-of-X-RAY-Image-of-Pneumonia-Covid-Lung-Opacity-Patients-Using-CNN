@@ -1,0 +1,1 @@
+# Classification-of-X-RAY-Image-of-Pneumonia-Covid-Lung-Opacity-Patients-Using-CNN
